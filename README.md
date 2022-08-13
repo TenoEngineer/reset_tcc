@@ -1,4 +1,4 @@
-# Projeto Final - CWI | Reset - 2ª Edição
+# Projeto Final
 
 Como desafio para o projeto final do CWI | Reset, vamos criar a API de um aplicativo de delivery. O nome do aplicativo deverá ser definido por cada participante.
 
@@ -660,10 +660,6 @@ A estrutura de classes abaixo, representa o que é esperado que seja persistido 
 ---
 
 Collection do Postman contendo exemplos de requisição e de respostas: https://www.getpostman.com/collections/25d51094076fe620904c
-
-### Entrega
-
-- O código deve estar comitado no repositório até as 23:59:59 do dia 28/03/2021 (Domingo). Qualquer commit feito após este horário, será desconsiderado.
 
 ### Dicas
 
